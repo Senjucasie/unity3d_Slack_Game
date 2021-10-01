@@ -1,0 +1,1 @@
+1)fixed the objects getting dark by generating lighting in lighting settings.
